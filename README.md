@@ -1,6 +1,11 @@
 # Heart Disease AI Learning Lab
 
 An educational Streamlit application developed for the book chapter **“Vibe Coding with No-Code and Low-Code AI for Healthcare Education and Clinical Training.”**
+## Live Demonstration
+
+Access the deployed educational application here:
+
+[Heart Disease AI Learning Lab](https://heart-disease-ai-learning-lab.streamlit.app)
 
 ## Authors
 
