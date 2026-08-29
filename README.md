@@ -5,7 +5,7 @@ An educational Streamlit application developed for the book chapter **“Vibe Co
 
 Access the deployed educational application here:
 
-[Heart Disease AI Learning Lab](https://heart-disease-ai-learning-lab.streamlit.app)
+[Heart Disease AI Learning Lab](https://heart-disease-ai-learning-lab-dqqdrrr3gx99byyflna6hg.streamlit.app/)
 
 ## Authors
 
