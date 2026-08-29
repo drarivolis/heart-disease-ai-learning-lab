@@ -6,7 +6,7 @@ import pandas as pd
 import streamlit as st
 
 
-MODEL_PATH = Path(__file__).parent / "artifacts" / "selected_heart_disease_pipeline.joblib"
+MODEL_PATH = Path(__file__).parent / "selected_heart_disease_pipeline.joblib"
 
 st.set_page_config(
     page_title="Heart Disease AI Learning Lab",
